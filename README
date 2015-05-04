@@ -1,6 +1,6 @@
 This is a skeleton project for setting up a basic maven, spring and hibernate project.
 
-It uses, as well, a connection to a mysql db(see the details in database.properties)
+It uses, as well, a connection to a postgresql master and replica dbs (see the details in database.properties)
 
 To build the project: mvn clean package
 To run the project: see Runner.java
